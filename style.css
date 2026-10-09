@@ -1,0 +1,21 @@
+body {
+    background-color:azure;
+    
+
+}
+
+.header{
+    text-align:center
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap:wrap;
+    padding:20px;
+
+}
+
+.column {
+    flex: 25%
+
+}
